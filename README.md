@@ -32,11 +32,3 @@ The Luhn algorithm is a simple checksum formula that is used to validate credit 
 Input: 4111111111111111
 Output: Credit card number is valid
 ```
-
-## Contributing
-
-If you want to contribute to this repository, feel free to submit a pull request with your own improvements to existing code.
-
-## License
-
-This repository is not under any license, if you want to use or redistribute it please contact the author or the owner of the repository to get their permission.
